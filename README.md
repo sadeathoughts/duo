@@ -1,2 +1,2 @@
 # duo
-duolingo
+duolingo v2
